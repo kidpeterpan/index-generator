@@ -111,3 +111,16 @@ func GenerateHTMLHeader(lines []string) {
 		}
 	}
 }
+
+func WriteOutputFile(content string) {
+	f, err := os.OpenFile("./output/output.txt",os.O_RDWR,0755)
+	if err != nil {
+		fmt.Println("error occurred when opening the output file:",err)
+		os.Exit(1)
+	}
+	defer f.Close()
+	_, err = f.WriteString(content)
+	if err != nil {
+		fmt.Println("error occurred when writing output file:",err)
+	}
+}

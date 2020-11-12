@@ -9,5 +9,6 @@ func main() {
 	lines := g.ReadInputFile()
 	generator.GenerateMDIndex(lines)
 	generator.GenerateHTMLHeader(lines)
+	generator.WriteOutputFile("hello")
 }
 
