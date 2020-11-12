@@ -5,10 +5,10 @@ import (
 )
 
 func main() {
-	g := generator.Generator{ InputFilePath: "./input/input.txt"}
+	g := generator.Generator{ InputFilePath: "./input/input.txt", OutputFilePath: "./output/output.txt"}
 	lines := g.ReadInputFile()
-	generator.GenerateMDIndex(lines)
-	generator.GenerateHTMLHeader(lines)
-	generator.WriteOutputFile("hello")
+	mdIndex := generator.GenerateMDIndex(lines)
+	htmlHeader :=  generator.GenerateHTMLHeader(lines)
+	g.WriteOutputFile(mdIndex.String() + htmlHeader.String())
 }
 
