@@ -1,0 +1,88 @@
+
+16.Independence
+Use Cases 148 Operation 149 Development 149 Deployment 150 Leaving Options Open 150 Decoupling Layers 151 Decoupling Use Cases 152 Decoupling Mode 153 Independent Develop-ability 153 Independent Deployability 154 Duplication 154 Decoupling Modes (Again) 155
+Chapter 16
+x
+Conclusion
+158
+ www.EBooksWorld.ir
+
+Chapter 17
+Boundaries: Drawing Lines 159
+A Couple of Sad Stories 160 FitNesse 163 Which Lines Do You Draw, and When Do You Draw Them? 165 What About Input and Output? 169 Plugin Architecture 170 The Plugin Argument 172 Conclusion 173
+Boundary Anatomy 175
+Boundary Crossing 176 The Dreaded Monolith 176 Deployment Components 178 Threads 179 Local Processes 179 Services 180 Conclusion 181
+Policy and Level 183
+Level 184 Conclusion 187
+Business Rules 189
+Entities 190 Use Cases 191 Request and Response Models 193 Conclusion 194
+Screaming Architecture 195
+The Theme of an Architecture 196 The Purpose of an Architecture 197 But What About the Web? 197 Frameworks Are Tools, Not Ways of Life 198 Testable Architectures 198
+Chapter 18
+Chapter 19
+Chapter 20
+Chapter 21
+Conclusion
+199
+Contents
+  www.EBooksWorld.ir
+xi
+
+Contents
+ Chapter 22
+Chapter 23
+The Clean Architecture 201
+The Dependency Rule 203 A Typical Scenario 207 Conclusion 209
+Presenters and Humble Objects 211
+The Humble Object Pattern 212 Presenters and Views 212 Testing and Architecture 213 Database Gateways 214 Data Mappers 214 Service Listeners 215 Conclusion 215
+Partial Boundaries 217
+Skip the Last Step 218 One-Dimensional Boundaries 219 Facades 220 Conclusion 220
+Layers and Boundaries 221
+Hunt the Wumpus 222 Clean Architecture? 223 Crossing the Streams 226 Splitting the Streams 227 Conclusion 228
+The Main Component 231
+The Ultimate Detail 232 Conclusion 237
+Services: Great and Small 239
+Chapter 24
+Chapter 25
+Chapter 26
+Chapter 27
+xii
+Service Architecture? Service Benefits?
+The Kitty Problem Objects to the Rescue
+240
+240
+242
+244
+ www.EBooksWorld.ir
+
+Chapter 28
+Chapter 29
+PART VI Chapter 30
+Component-Based Services 245 Cross-Cutting Concerns 246 Conclusion 247
+The Test Boundary 249
+Tests as System Components 250 Design for Testability 251 The Testing API 252 Conclusion 253
+Clean Embedded Architecture 255
+App-titude Test 258 The Target-Hardware Bottleneck 261 Conclusion 273
+Details 275
+The Database Is a Detail 277
+Relational Databases 278 Why Are Database Systems So Prevalent? 279 What If There Were No Disk? 280 Details 281 But What about Performance? 281 Anecdote 281 Conclusion 283
+The Web Is a Detail 285
+The Endless Pendulum 286 The Upshot 288 Conclusion 289
+Frameworks Are Details 291
+Framework Authors 292 Asymmetric Marriage 292
+Chapter 31
+Chapter 32
+The Risks The Solution
+293 294
+Contents
+  www.EBooksWorld.ir
+xiii
+
+Contents
+ Chapter 33
+Chapter 34
+I Now Pronounce You ... 295 Conclusion 295
+Case Study: Video Sales 297
+The Product 298 Use Case Analysis 298 Component Architecture 300 Dependency Management 302 Conclusion 302
+The Missing Chapter 303
+Package by Layer 304 Package by Feature 306 Ports and Adapters 308 Package by Component 310 The Devil Is in the Implementation Details 315 Organization versus Encapsulation 316 Other Decoupling Modes 319 Conclusion: The Missing Advice 321
