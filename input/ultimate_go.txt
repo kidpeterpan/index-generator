@@ -1,0 +1,48 @@
+0. Introduction
+Ultimate Go Programming| Introduction
+1. Design Guidelines
+Topics
+Prepare Your Mind
+Productivity versus Performance
+Correctness versus Performance
+Code Reviews
+2. Language Syntax
+Topics
+Variables
+Struct Types
+Pointers—Part 1 (Pass by Value)
+Pointer—Part 2 (Sharing Data)
+Pointers—Part 3 (Escape Analysis)
+Pointers—Part 4 (Stack Growth)
+Pointers—Part 5 (Garbage Collection)
+Constants
+11. Concurrency Patterns
+Topics
+Context-Part1
+Context-Part2
+Failure Detection
+12. Testing
+Topics
+Basic Unit Testing
+Table Unit Testing
+Mocking Web Server Response
+Testing Internal Endpoints
+Example Tests
+Sub Tests
+Code Coverage
+13. Benchmarking
+Topics
+Basic Benchmarking
+Sub Benchmarks
+Validate Benchmarks
+14. Profiling and Tracing
+Profiling Guidelines
+Stack Traces
+Micro Level Optimization
+Part 1| Macro Level Optimization: GODEBUG Tracing
+Part 2| Macro Level Optimization: Memory Profiing
+Part 3| Macro Level Optimization: Tooling Changes
+Part 4| Macro Level Optimization: CPU Profiling
+Execution Tracing
+15. Summary
+Ultimate Go Programming| Summary

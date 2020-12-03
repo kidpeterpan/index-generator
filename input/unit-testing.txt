@@ -4,13 +4,11 @@ The goal of unit testing
 Using coverage metrics to measure test suite quality
 What makes a successful test suite
 What you will learn in this book
-
 2. What is a unit test
 The definition of unit test
 The classical and London schools of unit testing
 Contrasting the classical and London schools
 Integration tests in the two schools
-
 3. The anatomy of a unit test
 How to structure a unit test
 Exploring the xUnit testing framework
@@ -18,33 +16,28 @@ Reusing test fixtures between tests
 Naming a unit test
 Refactoring to parameterized tests
 Using an assert library to further improve test readability
-
 4. The four pillars of a good unit test
 Diving into the four pilars of a good unit test
 The intrinsic connection between the first two attributes
 The third and fourth pillars | Fast feedback and maintainability
 In search of an ideal test
 Exploring well-known test automation concepts
-
 5. Mock and test fragility
 Differentiating mocks from stubs
 Observable behavior vs implementation details
 The relationship between mocks and test fragility
 The classical vs London schools of unit testing
-
 6. Styles of unit testing
 The three styles of unit testing
 Comparing the three styles of unit testing
 Understanding functional architecture
 Transitioning to functional architecture and output-based testing
-
 7. Refactoring toward valuable unit test
 Identifying the code to refactor
 Refactoring toward valuable unit tests
 Analysis of optimal unit test coverage
 Handling conditional logic in controllers
 Conclusion
-
 8. Why integration testing
 What is an integration test
 Which out of process dependencies to test directly
@@ -53,9 +46,21 @@ Using interfaces to abstract dependencies
 Integration testing best practices
 How to test logging functionality
 Conclusion
-
 9. Mocking best practices
 Maximizing value of mock
 Mocking best practices
-
-10.
+10. Testing the database
+Prerequisites for testing the database
+Database transaction management
+Test data life cycle
+Reusing code in test sections
+Common database testing questions
+Conclusion
+11. Unit testing aniti-patterns
+Unit testing private methods
+Exposing private state
+Leaking domain knowledge to tests
+Code pollution
+Mocking concrete classes
+Working with time
+Conclusion

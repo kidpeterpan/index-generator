@@ -1,0 +1,8 @@
+1. Intro to Design Patterns: Welcome to Design Patterns
+2. The Observer Pattern| Keeping your Objects in the Know
+3. The Decorator Pattern| Decorating Objects
+4. The Factory Pattern| Baking with OO Goodness
+5. The Singleton Pattern| One of a Kind Objects
+6. The Command Pattern| Encapsulating Invocation
+7. The Adapter and Facade Patterns Being Adaptive
+8. The Template Method Pattern| Encapsulating Algorithms

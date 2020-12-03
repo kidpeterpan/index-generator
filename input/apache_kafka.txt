@@ -1,0 +1,108 @@
+1. Apache Kafka Complete Developer's Guide
+Apache Kafka Installation Overview
+Installing Apache Kafka on the Mac and Unix-like systems
+Installing Apache Kafka on the Mac
+Installing Ubuntu on MacOS using VirtualBox
+2. Installing Apache Kafka on the remote Ubuntu server
+SECTION 2 Introduction
+Creating remote Ubuntu Virtual Private Server
+Installing Apache Kafka on Virtual Private Server
+3. Installing Apache Kafka on Windows
+SECTION 3 Introduction
+Installing Apache Kafka on Windows
+Starting Zookeeper and Kafka server on Windows
+Installing Ubuntu on Windows using VirtualBox
+Installing Apache Kafka on Ubuntu using GUI
+4. Starting Apache Zookeeper and Kafka Broker
+SECTION 4 Introduction
+Observing contents of the Kafka folder
+Reading and editing Kafka files using VisualStudio Code
+Trying to start Kafka Server
+Observing Kafka Server logs
+Starting Zookeeper
+Starting Kafka Server while Zookeeper is up and running
+Observing logs folder and current kafka server setup
+5. Creating and exploring Kafka Topic
+SECTION 5 Introduction
+How to connect to Kafka cluster
+Create new Kafka topic
+What happened after creation of the new topic
+Read details about topic
+6. Producing and consuming Messages
+SECTION 6 Introduction
+Send some messages using Kafka Console Producer
+Consuming messages using Kafka Console Consumer
+Consuming messages from the beginning
+Running multiple consumers
+Running multiple producers
+What was changed in the Kafka logs
+7. What is Apache Kafka and how it works
+SECTION 7 Introduction
+What is Apache Kafka
+Broker
+Broker cluster
+Zookeeper
+Zookeeper ensemble
+Multiple Kafka clusters
+Default ports of Zookeeper and Broker
+Kafka Topic
+Message structure
+Topics and Partitions
+Spreading messages across partitions
+Partition Leader and Followers
+Controller and it's responsibilities
+How Producers write messages to the topic
+How Consumers read messages from the topic
+8. GitHub Repository and Diagrams for the course
+SECTION 8 Introduction
+GitHub repository and list of basic Kafka commands
+Diagrams for the course
+9. EXAMPLE 1 - Topic with Multiple Partitions
+Introduction
+Cleaning up existing kafka installation
+Creating topic with multiple partitions
+How messages were spread across different partitions
+Reading messages from specific partition
+Reading messages from specific offset in specific partition
+Reading details about topic and __consumer_offsets topic
+Summary for multiple partitions example
+10. EXAMPLE 2 - Kafka Cluster with Multiple Brokers
+SECTION 10 Introduction
+Example overview - run multiple brokers
+Creating separate configuration files for brokers
+Launching three brokers
+Getting cluster information and broker details from Zookeeper
+Creating multiple-partition topic in the Kafka cluster
+Looking at logs folders of every broker
+Producing and consuming messages in the cluster
+Details about topic in the cluster
+Simulating broker failure in the cluster
+Summary for broker cluster and topic without replication
+11. EXAMPLE 3 - Multiple Brokers and Topic with Replication
+SECTION 11 Introduction
+Preparing for the next example with replication
+Launching brokers and creating topic with replication
+Observing logs folder and details of the topic
+Producing and consuming messages in the topic with replication
+Observing how messages were stored in the partitions on different brokers
+Bringing down one of three brokers and observing changes
+Bringing down another broker in the cluster
+Bringing back both brokers
+Summary for replication
+12 .EXAMPLE 4 - Kafka Consumer Groups
+SECTION 12 Introduction
+Example with consumer groups overview
+Exploring default consumer groups
+Starting consumer in the custom consumer group
+Starting second consumer in the same consumer group
+Launching one more consumer in the same group
+Idle consumers in the group
+Summary for consumer groups
+13. EXAMPLE 5 - Performance Testing
+SECTION 13 Introduction
+Overview of the performance testing example
+Starting cluster and launching basic performance test
+Increasing performance test parameters
+Testing consumer performance
+Getting non-zero LAG values for consumers
+Performance test example summary
