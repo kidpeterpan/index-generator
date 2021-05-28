@@ -1,0 +1,77 @@
+![xxx_logo](/media/cover/xxx_logo.png)
+
+	+ [Syntax Recap](#syntax-recap)
+	+ [Go's build tool](#go's-build-tool)
+	+ [Comparison](#comparison)
+	+ [Slice](#slice)
+	+ [Garbage collection and garbage reduction](#garbage-collection-and-garbage-reduction)
+	+ [Methods and Interfaces](#methods-and-interfaces)
+	+ [Interfaces for mocking in unit tests](#interfaces-for-mocking-in-unit-tests)
+	+ [Concurrency](#concurrency)
+	+ [Lesser known Go tools](#lesser-known-go-tools)
+	+ [Using the Go profiler to optimize code for speed](#using-the-go-profiler-to-optimize-code-for-speed)
+	+ [Idiomatic Go](#idiomatic-go)
+	+ [Package management and vendoring approaches](#package-management-and-vendoring-approaches)
+	+ [Building a scalable work system](#building-a-scalable-work-system)
+	+ [Talking to a database in Go](#talking-to-a-database-in-go)
+	+ [Serving a JSON API using Go](#serving-a-json-api-using-go)
+<h3 id="syntax-recap">Syntax Recap</h3>
+
+// TODO: add of Syntax Recap
+
+<h3 id="go's-build-tool">Go's build tool</h3>
+
+// TODO: add of Go's build tool
+
+<h3 id="comparison">Comparison</h3>
+
+// TODO: add of Comparison
+
+<h3 id="slice">Slice</h3>
+
+// TODO: add of Slice
+
+<h3 id="garbage-collection-and-garbage-reduction">Garbage collection and garbage reduction</h3>
+
+// TODO: add of Garbage collection and garbage reduction
+
+<h3 id="methods-and-interfaces">Methods and Interfaces</h3>
+
+// TODO: add of Methods and Interfaces
+
+<h3 id="interfaces-for-mocking-in-unit-tests">Interfaces for mocking in unit tests</h3>
+
+// TODO: add of Interfaces for mocking in unit tests
+
+<h3 id="concurrency">Concurrency</h3>
+
+// TODO: add of Concurrency
+
+<h3 id="lesser-known-go-tools">Lesser known Go tools</h3>
+
+// TODO: add of Lesser known Go tools
+
+<h3 id="using-the-go-profiler-to-optimize-code-for-speed">Using the Go profiler to optimize code for speed</h3>
+
+// TODO: add of Using the Go profiler to optimize code for speed
+
+<h3 id="idiomatic-go">Idiomatic Go</h3>
+
+// TODO: add of Idiomatic Go
+
+<h3 id="package-management-and-vendoring-approaches">Package management and vendoring approaches</h3>
+
+// TODO: add of Package management and vendoring approaches
+
+<h3 id="building-a-scalable-work-system">Building a scalable work system</h3>
+
+// TODO: add of Building a scalable work system
+
+<h3 id="talking-to-a-database-in-go">Talking to a database in Go</h3>
+
+// TODO: add of Talking to a database in Go
+
+<h3 id="serving-a-json-api-using-go">Serving a JSON API using Go</h3>
+
+// TODO: add of Serving a JSON API using Go
+

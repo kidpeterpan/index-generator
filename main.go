@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	g := generator.Generator{ InputFilePath: "./input/ultimate_go.txt", OutputFilePath: "./output/output.txt"}
+	g := generator.Generator{ InputFilePath: "./input/intermediate_go_programming.txt", OutputFilePath: "./output/output.txt"}
 	lines := g.ReadInputFile()
 	mdIndex := generator.GenerateMDIndex(lines)
 	htmlHeader :=  generator.GenerateHTMLHeader(lines)

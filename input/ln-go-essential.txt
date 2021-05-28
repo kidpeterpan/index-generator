@@ -1,0 +1,7 @@
+1. Getting Started
+2. Essential Go Skills
+3. Managing Simple Values
+4. Managing Complex Types and Collections
+5. Managing Program Flow
+6. Structuring Go Code
+7. Working with Files and the Web

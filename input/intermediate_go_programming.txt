@@ -1,0 +1,15 @@
+Syntax Recap
+Go's build tool
+Comparison
+Slice
+Garbage collection and garbage reduction
+Methods and Interfaces
+Interfaces for mocking in unit tests
+Concurrency
+Lesser known Go tools
+Using the Go profiler to optimize code for speed
+Idiomatic Go
+Package management and vendoring approaches
+Building a scalable work system
+Talking to a database in Go
+Serving a JSON API using Go

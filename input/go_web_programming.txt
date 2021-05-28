@@ -1,0 +1,81 @@
+1. Go and web applications
+Using Go for web applications
+How web applications work
+A quick introduction to HTTP
+The coming of web applications
+HTTP request
+HTTP response
+URI
+Introducing HTTP/2
+Parts of a web app
+Hello Go
+Summary
+2. Go ChitChat
+Let’s ChitChat
+Application design
+Data model
+Receiving and processing requests
+Generating HTML responses with templates
+Tidying up
+Installing PostgreSQL
+Interfacing with the database
+Starting the server
+Wrapping up
+Summary
+3. Handling requests
+The Go net/http library
+Serving Go
+Handlers and handler functions
+Using HTTP/2
+Summary
+4. Processing requests
+Requests and responses
+HTML forms and Go
+ResponseWriter
+Cookies
+Summary
+5. Displaying content
+Templates and template engines
+The Go template engine
+Actions
+Arguments, variables, and pipelines
+Functions
+Context awareness
+Nesting templates
+Using the block action to define default templates
+Summary
+6. Storing data
+In-memory storage
+File storage
+Go and SQL
+Go and SQL relationships
+Go relational mappers
+Summary
+7. Go web services
+Introducing web services
+Introducing SOAP-based web services
+Introducing REST-based web services
+Parsing and creating XML with Go
+Parsing and creating JSON with Go
+Creating Go web services
+Summary
+8. Testing your application
+Go and testing
+Unit testing with Go
+HTTP testing with Go
+Test doubles and dependency injection
+Third-party Go testing libraries
+Summary
+9. Leveraging Go concurrency
+Concurrency isn’t parallelism
+Goroutines
+Channels
+Concurrency for web applications
+Summary
+10. Deploying Go
+Deploying to servers
+Deploying to Heroku
+Deploying to Google App Engine
+Deploying to Docker
+Comparison of deployment methods
+Summary
